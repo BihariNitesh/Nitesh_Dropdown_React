@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nitesh_Dropdown/static/css/main.cd4536e8.css",
+    "main.js": "/Nitesh_Dropdown/static/js/main.480df775.js",
+    "static/js/787.6804c560.chunk.js": "/Nitesh_Dropdown/static/js/787.6804c560.chunk.js",
+    "static/media/user.png": "/Nitesh_Dropdown/static/media/user.2500a95cab9469906b8f.png",
+    "static/media/settings.png": "/Nitesh_Dropdown/static/media/settings.d2b779c9a3cc3f88f301.png",
+    "static/media/question.png": "/Nitesh_Dropdown/static/media/question.3a0e14bdf104cec6e845.png",
+    "static/media/envelope.png": "/Nitesh_Dropdown/static/media/envelope.cb392634839fbe479f91.png",
+    "static/media/edit.png": "/Nitesh_Dropdown/static/media/edit.0f46e2728eb984e21ce8.png",
+    "static/media/logo.svg": "/Nitesh_Dropdown/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Nitesh_Dropdown/index.html",
+    "main.cd4536e8.css.map": "/Nitesh_Dropdown/static/css/main.cd4536e8.css.map",
+    "main.480df775.js.map": "/Nitesh_Dropdown/static/js/main.480df775.js.map",
+    "787.6804c560.chunk.js.map": "/Nitesh_Dropdown/static/js/787.6804c560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd4536e8.css",
+    "static/js/main.480df775.js"
+  ]
+}
